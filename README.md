@@ -1,57 +1,48 @@
-# Hi there, I'm Wildan! 👋 🤖
-
-Backend, frontend, or automation scripts? I let AI handle the heavy syntax while I architect the vision. I am a highly enthusiastic tech explorer who loves tinkering with multiple languages, secure gateways, and ready-to-use templates to build cool things.
-
----
-
-### 🌌 About Me
-
-- 🧠 **My Approach:** Deeply integrated with AI tools (ChatGPT, Claude, Gemini) and boilerplate templates. Why reinvent the wheel when you can prompt the perfect one?
-- 🛠️ **What I Do:** Stitching diverse components together, automating workflows, and securing endpoints.
-- 🌱 **Learning Journey:** Constantly exploring the basics of various modern languages to prompt and debug AI outputs more efficiently.
-- 💬 **Ask me about:** How to co-pilot with AI to build functional tools without memorizing the entire documentation.
-
----
-
-### 🧰 Tech Stack & Tools I Tinker With
-
-> I explore a wide variety of languages and tools, using AI to bridge the syntax gap and bring ideas to life quickly.
-
-#### 💻 Languages & Runtimes
-<p align="left">
-  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript" />
-  <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript" />
-  <img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" alt="NodeJS" />
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
-  <img src="[https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)" alt="Shell" />
-</p>
-<p align="left">
-  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" alt="Java" />
-  <img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" alt="PHP" />
-  <img src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)" alt="GoLang" />
-  <img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)" alt="Rust" />
-</p>
-
-#### 🤖 AI Co-Pilots & Essentials
-<p align="left">
-  <img src="[https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)" alt="ChatGPT" />
-  <img src="[https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)" alt="Gemini" />
-  <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" alt="Git" />
-  <img src="[https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)" alt="Markdown" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi there, I'm Wildan! 👋 🤖</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Wildanzx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Wildan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wildanzx&theme=radical&hide_border=true" alt="Wildan's Streak Stats" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=Wildanzx&label=Profile%20views&color=6f42c1&style=flat" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Wildanzx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <strong>AI-Assisted Developer | Automation Explorer | Secure Gateway Enthusiast</strong><br>
+  <em>Stitching complex templates and prompting modern architectures into reality from Indonesia 🇮🇩</em>
 </p>
+
+---
+
+### 🛠️ About Me
+
+*   🧠 **My Superpower**: I don't memorize syntax; I master the art of asking AI the right questions to build functional tools.
+*   🚀 **Secure Gateways**: Tinkering with secure entry points, Cloudflare Workers proxying, and custom installer scripts.
+*   🔒 **Shell & Automation**: Refining bash installers with obfuscation, passkey authentication, and environment security.
+*   💡 **Philosophy**: Why spend days fixing a bug when you can co-pilot with AI and build the future in hours?
+*   🎯 **Current Focus**: Connecting TS/JS runtimes, optimizing prompt engineering, and mastering cross-language scripts.
+
+---
+
+### ⚡ I Code With (AI & Templates)
+
+#### 📜 Scripting & Languages
+<div align="left">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="bash" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="35" alt="python" />
+  <img src="https://cdn.simpleicons.org/openjdk/white" height="35" alt="java" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="35" alt="php" />
+  <img src="https://cdn.simpleicons.org/rust/white" height="35" alt="rust" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="35" alt="golang" />
+</div>
+
+#### 🤖 My Co-Pilots & Infrastructure
+<div align="left">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="35" alt="chatgpt" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="35" alt="gemini" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="35" alt="cloudflare" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git" />
+</div>
 
 ---
 
@@ -62,4 +53,18 @@ graph LR
     A[Idea & Vision] --> B(Prompting AI)
     B --> C{Testing Code & Templates}
     C -->|Errors?| B
-    C -->|Success!| D[Deployment & Architecture]
+    C -->|Success!| D[Deployment & Secure Infrastructure]
+
+
+---
+
+### 📊 GitHub Analytics & Stats
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Wildanzx?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FJakarta" alt="Wildan's GitHub Metrics" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wildanzx&theme=radical&hide_border=true" alt="Wildan's Streak" width="48%" />
+  <img src="https://github-readme-stats.jihanazhari.my.id/api/top-langs/?username=Wildanzx&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+</p>
