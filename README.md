@@ -46,6 +46,15 @@
 
 ---
 
+### ⚙️ My Cursor AI-Assisted Workflow
+
+- 💡 **The Vision:** Brainstorming the architectural logic and secure gateway ideas.
+- 🤖 **The Codebase:** Letting **Cursor AI** index the project, generate the core logic, and handle the heavy syntax.
+- 🧪 **The Refinement:** Testing for edge cases, adding obfuscation, and configuring environment checks.
+- 🚀 **The Deployment:** Launching seamless APIs, secure Cloudflare Workers, and robust shell scripts.
+
+---
+
 ### 📊 GitHub Analytics & Stats
 
 <p align="center">
