@@ -50,3 +50,23 @@ graph LR
     B --> C{Testing Code & Templates}
     C -->|Errors?| B
     C -->|Success!| D[Deployment & Architecture]
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wildanzx&show_icons=true&theme=radical&hide_border=true" alt="Wildan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wildanzx&theme=radical&hide_border=true" alt="Wildan's Streak Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wildanzx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is poetry, and AI is my ghostwriter."</i> ✨
+</p>
