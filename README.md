@@ -42,10 +42,6 @@ Backend, frontend, or automation scripts? I let AI handle the heavy syntax while
 
 ---
 
-### ⚙️ How My AI-Assisted Workflow Works
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -55,6 +51,8 @@ Backend, frontend, or automation scripts? I let AI handle the heavy syntax while
 
 ---
 
+### ⚙️ How My AI-Assisted Workflow Works
+
 ```mermaid
 graph LR
     A[Idea & Vision] --> B(Prompting AI)
@@ -63,10 +61,4 @@ graph LR
     C -->|Success!| D[Deployment & Architecture]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wildanzx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is poetry, and AI is my ghostwriter."</i> ✨
 </p>
