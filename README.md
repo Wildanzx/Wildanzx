@@ -42,6 +42,19 @@ Backend, frontend, or automation scripts? I let AI handle the heavy syntax while
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Wildanzx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Wildan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wildanzx&theme=radical&hide_border=true" alt="Wildan's Streak Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Wildanzx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+</p>
+
+---
+
 ### ⚙️ How My AI-Assisted Workflow Works
 
 ```mermaid
