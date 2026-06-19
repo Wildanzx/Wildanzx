@@ -46,19 +46,6 @@
 
 ---
 
-### ⚙️ How My AI-Assisted Workflow Works
-
-<div>
-```mermaid
-graph LR
-    A[Idea & Vision] --> B(Prompting AI)
-    B --> C{Testing Code & Templates}
-    C -->|Errors?| B
-    C -->|Success!| D[Deployment & Secure Infrastructure]
-</div>
-
----
-
 ### 📊 GitHub Analytics & Stats
 
 <p align="center">
